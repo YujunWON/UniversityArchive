@@ -19,8 +19,8 @@
 ### (하계 계절학기)
 - 하계 학부연구생 프로그램
   - 
-  - CS231n를 통한 Deep Learning 개념 스터디 진행
-  - 모두를 위한 딥러닝을 통해, CS231n에서 학습한 개념을 코드로 작성하는 등의 Pytorch 스터디 진행
+  - [CS231n](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)를 통한 Deep Learning 개념 스터디 진행
+  - [모두를 위한 딥러닝 시즌 2](https://www.youtube.com/playlist?list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv)를 통해, CS231n에서 학습한 개념을 코드로 작성하는 등의 Pytorch 스터디 진행
   - VGGNet을 기반으로 한 커스텀 모델 작성 후, 성능 지표 확인 및 결과 공유
   - 최신 Deep Learning 논문 스터디(GAN, StyleGAN3)
   
