@@ -14,6 +14,7 @@
 
 - Video System Capstone Design[ECE4326]
   - 
+  - Python
   - 사용 교재: [Digital Image Processing (3rd Ed)](https://product.kyobobook.co.kr/detail/S000002272758)
 
 ### (하계 계절학기)
