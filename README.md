@@ -4,17 +4,17 @@
   - 
   - 데이터 표현, 데이터 구조와 알고리즘 학습
   - arrays, linked lists, stack, queue, trees, search trees, graphs, sorting, hashing 학습
-  - C
+  - Using C and C++
   - 사용 교재: [FUNDAMENTALS OF DATA STRUCTURES IN C, 2nd Edition](https://product.kyobobook.co.kr/detail/S000001086501)
 
 - Java Programming[ECE3367]
   -
-  - Java
+  - Using Java
   - 사용 교재: [명품 JAVA Programming](https://product.kyobobook.co.kr/detail/S000001076326)
 
 - Video System Capstone Design[ECE4326]
   - 
-  - Python
+  - Using Python
   - 사용 교재: [Digital Image Processing (3rd Ed)](https://product.kyobobook.co.kr/detail/S000002272758)
 
 ### (하계 계절학기)
@@ -28,5 +28,6 @@
 
 ### (2학기)
 - Electronic Engineering Capstone Design 2[ECE3310]
-  -
-  - C
+  - AVR ATmega128을 이용하여 회로 및 소프트웨어를 설계
+  - [Proteus](https://www.labcenter.com/downloads/)를 이용한 온라인 실험 + 실험실에서 ATmega128을 이용한 오프라인 실험
+  - Using C language
